@@ -1,11 +1,10 @@
 ### Hi there, I'm Ayo 👋
 
-Here are some ideas to get you started:
+Here are some details about me:
 
-- 🔭 I’m currently working on a tech startup at [Bolt Labs](https://boltlabs.tech/).
-- 👯 I’m looking to collaborate on [Charm-Crypto](https://github.com/jhuisi/charm) and [OpenABE](https://github.com/zeutro/openabe)
-- 💬 Ask me about the future of web3
-- ⚡ Fun fact: I am a family man!
+- 🔭 I’m currently working on a tech startup at [Bolt Labs](https://boltlabs.tech/) and a security consulting firm at [YeleTech Security, Inc](https://yeletech.org)
+- 👯 I’m looking to collaborate on open source projects like [TSS-ECDSA](https://github.com/boltlabs-inc/tss-ecdsa), [Charm-Crypto](https://github.com/jhuisi/charm) and [OpenABE](https://github.com/zeutro/openabe)
+- 💬 More broadly, I am excited to work with my team on security & privacy for digital assets in Web 3 using ZKPs and MPC technology.
 
 <h3 align="left">Where to find me:</h3>
 <p align="left">
